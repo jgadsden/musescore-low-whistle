@@ -29,4 +29,4 @@ where MuseScore lists the low whistles instruments under 'World Music' 'Woodwind
 Once a low whistle staff is added to the score there is no need to keep this instrument
 file in the 'Instrument List 2' extension.
 
-In the examples directory there is an example score showing all Low Whistle staves.
+The score `low_whistle_range_test.mscz` is an example score showing all three whistle staves.
