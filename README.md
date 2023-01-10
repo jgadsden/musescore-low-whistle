@@ -1,3 +1,6 @@
+This has been archived - it is now part of the
+[Tin Whistle Tablature](tin-whistle-tablature) project.
+
 # musescore-low-whistle
 This repo provides an extra instrument file for adding Low Whistle types to Musescore.
 
